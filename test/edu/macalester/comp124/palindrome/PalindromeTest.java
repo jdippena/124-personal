@@ -19,6 +19,7 @@ public class PalindromeTest {
         assertTrue(Palindrome.isPalindrome("TaTtArRaTtAt"));
         assertTrue(Palindrome.isPalindrome("1234@#567(@#8909*&876&543!2#1"));
         assertFalse(Palindrome.isPalindrome("This is definitely not a palindrome."));
+        assertFalse(Palindrome.isPalindrome("^@#%jshf^&T#uih)(@ui!D;{{DSF)_@"));
     }
 
 }
