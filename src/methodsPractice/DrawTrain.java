@@ -1,14 +1,5 @@
 package methodsPractice;
 
-/*
- * File: DrawTrain.java
- * --------------------
- * This program draws a three-car train consisting on an engine,
- * a boxcar, and a caboose.  This implementation of the program,
- * however, is incomplete, and contains only the methods given
- * in the text.
- */
-
 import acm.graphics.GLine;
 import acm.graphics.GOval;
 import acm.graphics.GRect;
