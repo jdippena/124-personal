@@ -9,7 +9,7 @@ import java.awt.*;
 
 public class DrawTrain extends GraphicsProgram {
 
-	public void run() {
+    public void run() {
 		double trainWidth = 3 * CAR_WIDTH + 4 * CONNECTOR;
 		double x = (getWidth() - trainWidth) / 2;
 		double y = getHeight();
